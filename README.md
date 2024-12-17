@@ -1,1 +1,2 @@
-# ResponsiPGWEB
+Nama Produk = Wisata Kota Palembang
+Deskripsi = WebGIS Wisata Palembang bertujuan untuk menyediakan informasi wisata yang terintegrasi dan mempermudah wisatawan dalam menemukan lokasi, fasilitas, serta rute menuju objek wisata di Palembang. Platform ini mendukung promosi pariwisata secara digital, membantu perencanaan perjalanan, dan memanfaatkan teknologi geospasial melalui peta interaktif yang intuitif. Selain itu, WebGIS ini memungkinkan pengelolaan data wisata secara efisien dan real-time, meningkatkan keterlibatan pengguna melalui fitur interaktif seperti ulasan dan rekomendasi, serta mendorong pengembangan pariwisata yang berkelanjutan dengan tetap menjaga budaya, lingkungan, dan ekonomi lokal.
